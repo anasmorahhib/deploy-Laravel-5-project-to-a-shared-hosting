@@ -4,3 +4,6 @@
 3. Extract htaccess.zip
 4. you have index.php and .htaccess to your public_html 
 5. go to yourdomain.com :)
+
+watch this practice video:
+https://youtu.be/ktPaxl0d5ro
